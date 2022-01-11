@@ -1,0 +1,3 @@
+# androidSchool
+校园通App的涉及与设计
+使用的工具是eclipse+Androidstudio，在校期间的一个srtp项目
